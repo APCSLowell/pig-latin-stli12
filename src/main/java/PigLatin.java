@@ -56,4 +56,4 @@ public class PigLatin {
 		return "ERROR!";
 	    }
     }
-}//end PigLatin class
+}//end PigLatin class test
